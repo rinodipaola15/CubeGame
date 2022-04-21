@@ -1,0 +1,1 @@
+{"highScoreEntryList":[{"score":0,"name":"NEW"},{"score":0,"name":"NEW"},{"score":0,"name":"NEW"},{"score":0,"name":"NEW"},{"score":0,"name":"NEW"},{"score":0,"name":"NEW"},{"score":0,"name":"NEW"},{"score":0,"name":"NEW"},{"score":0,"name":"NEW"},{"score":0,"name":"NEW"}]}
